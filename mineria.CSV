@@ -1,8 +1,8 @@
-Name,Industry,Sub Industry,Headquarters Location,Date added
+Name,Industry,Sub Industry,Headquarters ,Location,Date added
 Agilent Technologies,Health Care,Health Care Equipment,Santa Clara, California,2000
 American Airlines Group,Industrials,Airlines,Fort Worth, Texas,2015
 Advance Auto Parts,Consumer Discretionary,Automotive Retail,Raleigh, North Carolina,2015
-Apple Inc,Information Technology,Technology Hardware  Storage & Peripherals,Cupertino  California,1982
+Apple Inc,Information Technology,Technology Hardware  Storage & Peripherals,Cupertino  ,California,1982
 AbbVie,Health Care,Pharmaceuticals,North Chicago, Illinois,2012
 AmerisourceBergen,Health Care,Health Care Distributors,Conshohocken, Pennsylvania,2001
 Abbott,Health Care,Health Care Equipment,North Chicago, Illinois,1964
@@ -27,7 +27,7 @@ Alaska Air Group,Industrials,Airlines,SeaTac, Washington,2016
 Allstate,Financials,Property & Casualty Insurance,Northfield Township, Illinois,1995
 Allegion,Industrials,Building Products,New York City, New York,2013
 Applied Materials,Information Technology,Semiconductor Equipment,Santa Clara, California,1995
-Amcor,Materials,Paper Packaging,Warmley,  Bristol, United Kingdom,2019
+Amcor,Materials,Paper Packaging,Warmley,  Bristol,2019
 AMD,Information Technology,Semiconductors,Santa Clara, California,2017
 Ametek,Industrials,Electrical Components & Equipment,Berwyn, Pennsylvania,2013
 Amgen,Health Care,Biotechnology,Thousand Oaks, California,1992
@@ -81,7 +81,7 @@ Chubb Limited,Financials,Property & Casualty Insurance,Zurich, Switzerland,2010
 Cboe Global Markets,Financials,Financial Exchanges & Data,Chicago, Illinois,2017
 CBRE Group,Real Estate,Real Estate Services,Dallas, Texas,2006
 Crown Castle,Real Estate,Specialized REITs,Houston, Texas,2012
-Carnival,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Miami  Florida,1998
+Carnival,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Miami  ,Florida,1998
 Ceridian,Information Technology,Application Software,Minneapolis, Minnesota,2021
 Cadence Design Systems,Information Technology,Application Software,San Jose, California,2017
 CDW,Information Technology,Technology Distributors,Lincolnshire, Illinois,2019
@@ -114,7 +114,7 @@ Camden Property Trust,Real Estate,Residential REITs,Houston, Texas,2022
 Charles River Laboratories,Health Care,Life Sciences Tools & Services,Wilmington, Massachusetts,2021
 Salesforce,Information Technology,Application Software,San Francisco, California,2008
 Cisco,Information Technology,Communications Equipment,San Jose, California,1993
-CoStar Group,Industrials,Research & Consulting Services,Washington, D C ,2022
+CoStar Group,Industrials,Research & Consulting Services,Washington,Washington,2022
 CSX,Industrials,Railroads,Jacksonville, Florida,1967
 Cintas,Industrials,Diversified Support Services,Mason, Ohio,2001
 Catalent,Health Care,Pharmaceuticals,Somerset, New Jersey,2020
@@ -207,11 +207,11 @@ Home Depot The,Consumer Discretionary,Home Improvement Retail,Atlanta, Georgia,1
 Hess Corporation,Energy,Integrated Oil & Gas,New York City, New York,1984
 Hartford The,Financials,Property & Casualty Insurance,Hartford, Connecticut,1957
 Huntington Ingalls Industries,Industrials,Aerospace & Defense,Newport News, Virginia,2018
-Hilton Worldwide,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Tysons Corner  Virginia,2017
+Hilton Worldwide,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Tysons Corner  ,Virginia,2017
 Hologic,Health Care,Health Care Equipment,Marlborough, Massachusetts,2016
 Honeywell,Industrials,Industrial Conglomerates,Charlotte, North Carolina,1964
-Hewlett Packard Enterprise,Information Technology,Technology Hardware  Storage & Peripherals,Houston  Texas,2015
-HP Inc,Information Technology,Technology Hardware  Storage & Peripherals,Palo Alto  California,1974
+Hewlett Packard Enterprise,Information Technology,Technology Hardware  Storage & Peripherals,Houston  ,Texas,2015
+HP Inc,Information Technology,Technology Hardware  Storage & Peripherals,Palo Alto  ,California,1974
 Hormel Foods,Consumer Staples,Packaged Foods & Meats,Austin, Minnesota,2009
 Henry Schein,Health Care,Health Care Distributors,Melville, New York,2015
 Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Bethesda, Maryland,2007
@@ -247,7 +247,7 @@ Kellogg s,Consumer Staples,Packaged Foods & Meats,Battle Creek, Michigan,1989
 Keurig Dr Pepper,Consumer Staples,Soft Drinks,Burlington, Massachusetts,2022
 KeyCorp,Financials,Regional Banks,Cleveland, Ohio,1994
 Keysight,Information Technology,Electronic Equipment & Instruments,Santa Rosa, California,2018
-Kraft Heinz,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois,  Pittsburgh, Pennsylvania",2015
+Kraft Heinz,Consumer Staples,Packaged Foods & Meats,Chicago," Illinois,  Pittsburgh",2015
 Kimco Realty,Real Estate,Retail REITs,New Hyde Park, New York,2006
 Kimberly Clark,Consumer Staples,Household Products,Irving, Texas,1957
 Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Houston, Texas,2012
@@ -302,18 +302,18 @@ M&T Bank,Financials,Regional Banks,Buffalo, New York,2004
 Match Group,Communication Services,Interactive Media & Services,Dallas, Texas,2021
 Mettler Toledo,Health Care,Life Sciences Tools & Services,Columbus, Ohio,2016
 Micron Technology,Information Technology,Semiconductors,Boise, Idaho,1994
-Norwegian Cruise Line Holdings,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Miami  Florida,2017
+Norwegian Cruise Line Holdings,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Miami  ,Florida,2017
 Nasdaq Inc,Financials,Financial Exchanges & Data,New York City, New York,2008
 Nordson Corporation,Industrials,Industrial Machinery,Westlake, Ohio,2022
 NextEra Energy,Utilities,Multi Utilities,Juno Beach, Florida,1976
 Newmont,Materials,Gold,Denver, Colorado,1969
 Netflix,Communication Services,Movies & Entertainment,Los Gatos, California,2010
-Nike Inc,Consumer Discretionary,Apparel  Accessories & Luxury Goods,Washington County  Oregon,1988
+Nike Inc,Consumer Discretionary,Apparel  Accessories & Luxury Goods,County  Oregon,Washington ,1988
 Northrop Grumman,Industrials,Aerospace & Defense,West Falls Church, Virginia,1985
 ServiceNow,Information Technology,Systems Software,Santa Clara, California,2019
 NRG Energy,Utilities,Independent Power Producers & Energy Traders,Houston, Texas,2010
 Norfolk Southern Railway,Industrials,Railroads,Atlanta, Georgia,1957
-NetApp,Information Technology,Technology Hardware  Storage & Peripherals,San Jose  California,1999
+NetApp,Information Technology,Technology Hardware  Storage & Peripherals,San Jose  ,California,1999
 Nucor,Materials,Steel,Charlotte, North Carolina,1985
 Nvidia,Information Technology,Semiconductors,Santa Clara, California,2001
 NVR Inc,Consumer Discretionary,Homebuilding,Reston, Virginia,2019
@@ -358,14 +358,14 @@ Quanta Services,Industrials,Construction & Engineering,Houston, Texas,2009
 Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,Irving, Texas,2008
 PayPal,Information Technology,Data Processing & Outsourced Services,San Jose, California,2015
 Qorvo,Information Technology,Semiconductors,Greensboro, North Carolina,2015
-Royal Caribbean Group,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Miami  Florida,2014
+Royal Caribbean Group,Consumer Discretionary,Hotels  Resorts & Cruise Lines,Miami  ,Florida,2014
 Everest Re,Financials,Reinsurance,Hamilton, Bermuda,2017
 Regency Centers,Real Estate,Retail REITs,Jacksonville,  Florida,2017
 Regeneron,Health Care,Biotechnology,Tarrytown, New York,2013
 Regions Financial Corporation,Financials,Regional Banks,Birmingham, Alabama,1998
 Robert Half,Industrials,Human Resource & Employment Services,Menlo Park, California,2000
 Raymond James,Financials,Investment Banking & Brokerage,St  Petersburg, Florida,2017
-Ralph Lauren Corporation,Consumer Discretionary,Apparel  Accessories & Luxury Goods,New York City  New York,2007
+Ralph Lauren Corporation,Consumer Discretionary,Apparel  Accessories & Luxury Goods,New York City  ,New York,2007
 ResMed,Health Care,Health Care Equipment,San Diego, California,2017
 Rollins Inc,Industrials,Environmental & Facilities Services,Atlanta, Georgia,2018
 Roper Technologies,Information Technology,Electronic Equipment & Instruments,Sarasota, Florida,2009
@@ -387,7 +387,7 @@ Southern Company,Utilities,Electric Utilities,Atlanta, Georgia,1957
 Simon Property Group,Real Estate,Retail REITs,Indianapolis, Indiana,2002
 Steris,Health Care,Health Care Equipment,Dublin, Ireland,2019
 Steel Dynamics,Materials,Steel,Fort Wayne, Indiana,2022
-Seagate Technology,Information Technology,Technology Hardware  Storage & Peripherals,Dublin  Ireland,2012
+Seagate Technology,Information Technology,Technology Hardware  Storage & Peripherals,Dublin  ,Ireland,2012
 Constellation Brands,Consumer Staples,Distillers & Vintners,Victor, New York,2005
 Stanley Black & Decker,Industrials,Industrial Machinery,New Britain, Connecticut,1982
 Skyworks Solutions,Information Technology,Semiconductors,Irvine, California,2015
@@ -426,7 +426,7 @@ Union Pacific Corporation,Industrials,Railroads,Omaha, Nebraska,1957
 United Parcel Service,Industrials,Air Freight & Logistics,Sandy Springs, Georgia,2002
 United Rentals,Industrials,Trading Companies & Distributors,Stamford, Connecticut,2014
 Visa Inc,Information Technology,Data Processing & Outsourced Services,San Francisco, California,2009
-VF Corporation,Consumer Discretionary,Apparel  Accessories & Luxury Goods,Denver  Colorado,1979
+VF Corporation,Consumer Discretionary,Apparel  Accessories & Luxury Goods,Denver  ,Colorado,1979
 Vici Properties,Real Estate,Hotel & Resort REITs,New York City, New York,2022
 Vulcan Materials Company,Materials,Construction Materials,Birmingham, Alabama,1999
 Verisk,Industrials,Research & Consulting Services,Jersey City, New Jersey,2015
@@ -438,7 +438,7 @@ Verizon,Communication Services,Integrated Telecommunication Services,New York Ci
 Wabtec,Industrials,Construction Machinery & Heavy Trucks,Pittsburgh, Pennsylvania,2019
 Walgreens Boots Alliance,Consumer Staples,Drug Retail,Deerfield, Illinois,1979
 Warner Bros Discovery,Communication Services,Broadcasting,New York City, New York,2022
-Western Digital,Information Technology,Technology Hardware  Storage & Peripherals,San Jose  California,2009
+Western Digital,Information Technology,Technology Hardware  Storage & Peripherals,San Jose  ,California,2009
 WEC Energy Group,Utilities,Electric Utilities,Milwaukee, Wisconsin,2008
 Welltower,Real Estate,Health Care REITs,Toledo, Ohio,2009
 Wells Fargo,Financials,Diversified Banks,San Francisco, California,1976
