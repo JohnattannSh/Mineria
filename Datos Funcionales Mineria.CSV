@@ -1,0 +1,459 @@
+Name,Industry,Sub Industry,Headquarters Location,State,Date added
+Agilent Technologies,7,Health Care Equipment,Santa Clara, California,2000
+American Airlines Group,8,Airlines,Fort Worth, Texas,2015
+Advance Auto Parts,2,Automotive Retail,Raleigh, North Carolina,2015
+Apple Inc,9,Technology Hardware  Storage & Peripherals,Cupertino,  California,1982
+AbbVie,7,Pharmaceuticals,North Chicago, Illinois,2012
+AmerisourceBergen,7,Health Care Distributors,Conshohocken, Pennsylvania,2001
+Abbott,7,Health Care Equipment,North Chicago, Illinois,1964
+Arch Capital Group,6,Reinsurance,Hamilton, Bermuda,2022
+Accenture,9,IT Consulting & Other Services,Dublin, Ireland,2011
+Adobe Inc,9,Application Software,San Jose, California,1997
+Analog Devices,9,Semiconductors,Wilmington, Massachusetts,1999
+ADM,5,Agricultural Products,Chicago, Illinois,1981
+ADP,9,Data Processing & Outsourced Services,Roseland, New Jersey,1981
+Autodesk,9,Application Software,San Francisco, California,1989
+Ameren,12,Multi Utilities,St  Louis, Missouri,1991
+American Electric Power,12,Electric Utilities,Columbus, Ohio,1957
+AES Corporation,12,Independent Power Producers & Energy Traders,Arlington, Virginia,1998
+Aflac,6,Life & Health Insurance,Columbus, Georgia,1999
+American International Group,6,Property & Casualty Insurance,New York City, New York,1980
+Assurant,6,Multi line Insurance,New York City, New York,2007
+Arthur J Gallagher & Co,6,Insurance Brokers,Rolling Meadows, Illinois,2016
+Akamai,9,Internet Services & Infrastructure,Cambridge, Massachusetts,2007
+Albemarle Corporation,10,Specialty Chemicals,Charlotte, North Carolina,2016
+Align Technology,7,Health Care Supplies,Tempe, Arizona,2017
+Alaska Air Group,8,Airlines,SeaTac, Washington,2016
+Allstate,6,Property & Casualty Insurance,Northfield Township, Illinois,1995
+Allegion,8,Building Products,New York City, New York,2013
+Applied Materials,9,Semiconductor Equipment,Santa Clara, California,1995
+Amcor,10,Paper Packaging,Warmley,  Bristol, United Kingdom,2019
+AMD,9,Semiconductors,Santa Clara, California,2017
+Ametek,8,Electrical Components & Equipment,Berwyn, Pennsylvania,2013
+Amgen,7,Biotechnology,Thousand Oaks, California,1992
+Ameriprise Financial,6,Asset Management & Custody Banks,Minneapolis, Minnesota,2005
+American Tower,11,Specialized REITs,Boston, Massachusetts,2007
+Amazon,2,Internet & Direct Marketing Retail,Seattle, Washington,2005
+Arista Networks,9,Communications Equipment,Santa Clara, California,2018
+Ansys,9,Application Software,Canonsburg, Pennsylvania,2017
+Aon,6,Insurance Brokers,London, UK,1996
+A O Smith,8,Building Products,Milwaukee, Wisconsin,2017
+APA Corporation,4,Oil & Gas Exploration & Production,Houston, Texas,1997
+Air Products and Chemicals,10,Industrial Gases,Allentown, Pennsylvania,1985
+Amphenol,9,Electronic Components,Wallingford, Connecticut,2008
+Aptiv,2,Auto Parts & Equipment,Dublin, Ireland,2012
+Alexandria Real Estate Equities,11,Office REITs,Pasadena, California,2017
+Atmos Energy,12,Gas Utilities,Dallas, Texas,2019
+Activision Blizzard,1,Interactive Home Entertainment,Santa Monica, California,2015
+AvalonBay Communities,11,Residential REITs,Arlington, Virginia,2007
+Broadcom Inc,9,Semiconductors,San Jose, California,2014
+Avery Dennison,10,Paper Packaging,Glendale, California,1987
+American Water Works,12,Water Utilities,Camden, New Jersey,2016
+American Express,6,Consumer Finance,New York City, New York,1976
+AutoZone,2,Specialty Stores,Memphis, Tennessee,1997
+Boeing,8,Aerospace & Defense,Chicago, Illinois,1957
+Bank of America,6,Diversified Banks,Charlotte, North Carolina,1976
+Ball Corporation,10,Metal & Glass Containers,Broomfield, Colorado,1984
+Baxter International,7,Health Care Equipment,Deerfield, Illinois,1972
+Bath & Body Works Inc,2,Specialty Stores,Columbus, Ohio,1983
+Best Buy,2,Computer & Electronics Retail,Richfield, Minnesota,1999
+Becton Dickinson,7,Health Care Equipment,Franklin Lakes, New Jersey,1972
+Browna Forman,5,Distillers & Vintners,Louisville, Kentucky,1982
+Biogen,7,Biotechnology,Cambridge, Massachusetts,2003
+Bio Rad,7,Life Sciences Tools & Services,Hercules, California,2020
+BNY Mellon,6,Asset Management & Custody Banks,New York City, New York,1995
+Booking Holdings,2,Internet & Direct Marketing Retail,Norwalk, Connecticut,2009
+Baker Hughes,4,Oil & Gas Equipment & Services,Houston, Texas,2017
+BlackRock,6,Asset Management & Custody Banks,New York City, New York,2011
+Bristol Myers Squibb,7,Pharmaceuticals,New York City, New York,1957
+Broadridge Financial Solutions,9,Data Processing & Outsourced Services,Lake Success, New York,2018
+Berkshire Hathaway,6,Multi Sector Holdings,Omaha, Nebraska,2010
+Brown & Brown,6,Insurance Brokers,Daytona Beach, Florida,2021
+Boston Scientific,7,Health Care Equipment,Marlborough, Massachusetts,1995
+BorgWarner,2,Auto Parts & Equipment,Auburn Hills, Michigan,2011
+Boston Properties,11,Office REITs,Boston, Massachusetts,2006
+Citigroup,6,Diversified Banks,New York City, New York,1988
+Conagra Brands,5,Packaged Foods & Meats,Chicago, Illinois,1983
+Cardinal Health,7,Health Care Distributors,Dublin, Ohio,1997
+Carrier Global,8,Building Products,Palm Beach Gardens, Florida,2020
+Caterpillar Inc,8,Construction Machinery & Heavy Trucks,Irving, Texas,1957
+Chubb Limited,6,Property & Casualty Insurance,Zurich, Switzerland,2010
+Cboe Global Markets,6,Financial Exchanges & Data,Chicago, Illinois,2017
+CBRE Group,11,Real Estate Services,Dallas, Texas,2006
+Crown Castle,11,Specialized REITs,Houston, Texas,2012
+Carnival,2,Hotels  Resorts & Cruise Lines,Miami  Florida,1998
+Ceridian,9,Application Software,Minneapolis, Minnesota,2021
+Cadence Design Systems,9,Application Software,San Jose, California,2017
+CDW,9,Technology Distributors,Lincolnshire, Illinois,2019
+Celanese,10,Specialty Chemicals,Irving, Texas,2018
+Constellation Energy,12,Multi Utilities,Baltimore, Maryland,2022
+CF Industries,10,Fertilizers & Agricultural Chemicals,Deerfield, Illinois,2008
+Citizens Financial Group,6,Regional Banks,Providence, Rhode Island,2016
+Church & Dwight,5,Household Products,Ewing, New Jersey,2015
+CH Robinson,8,Air Freight & Logistics,Eden Prairie, Minnesota,2007
+Charter Communications,1,Cable & Satellite,Stamford, Connecticut,2016
+Cigna,7,Managed Health Care,Bloomfield, Connecticut,1976
+Cincinnati Financial,6,Property & Casualty Insurance,Fairfield, Ohio,1997
+Colgate Palmolive,5,Household Products,New York City, New York,1957
+Clorox,5,Household Products,Oakland, California,1969
+Comerica,6,Diversified Banks,Dallas, Texas,1995
+Comcast,1,Cable & Satellite,Philadelphia, Pennsylvania,2002
+CME Group,6,Financial Exchanges & Data,Chicago, Illinois,2006
+Chipotle Mexican Grill,2,Restaurants,Newport Beach, California,2011
+Cummins,8,Industrial Machinery,Columbus, Indiana,1965
+CMS Energy,12,Multi Utilities,Jackson, Michigan,1999
+Centene Corporation,7,Managed Health Care,St  Louis, Missouri,2016
+CenterPoint Energy,12,Multi Utilities,Houston, Texas,1985
+Capital One,6,Consumer Finance,Tysons Corner, Virginia,1998
+CooperCompanies,7,Health Care Supplies,San Ramon, California,2016
+ConocoPhillips,4,Oil & Gas Exploration & Production,Houston, Texas,1957
+Costco,5,Hypermarkets & Super Centers,Issaquah, Washington,1993
+Campbell Soup Company,5,Packaged Foods & Meats,Camden, New Jersey,1957
+Copart,8,Diversified Support Services,Dallas, Texas,2018
+Camden Property Trust,11,Residential REITs,Houston, Texas,2022
+Charles River Laboratories,7,Life Sciences Tools & Services,Wilmington, Massachusetts,2021
+Salesforce,9,Application Software,San Francisco, California,2008
+Cisco,9,Communications Equipment,San Jose, California,1993
+CoStar Group,8,Research & Consulting Services,Washington, D C ,2022
+CSX,8,Railroads,Jacksonville, Florida,1967
+Cintas,8,Diversified Support Services,Mason, Ohio,2001
+Catalent,7,Pharmaceuticals,Somerset, New Jersey,2020
+Coterra,4,Oil & Gas Exploration & Production,Houston, Texas,2008
+Cognizant,9,IT Consulting & Other Services,Teaneck, New Jersey,2006
+Corteva,10,Fertilizers & Agricultural Chemicals,Indianapolis, Indiana,2019
+CVS Health,7,Health Care Services,Woonsocket, Rhode Island,1957
+Chevron Corporation,4,Integrated Oil & Gas,San Ramon, California,1957
+Caesars Entertainment,2,Casinos & Gaming,Reno, Nevada,2021
+Delta Air Lines,8,Airlines,Atlanta, Georgia,2013
+DuPont,10,Specialty Chemicals,Wilmington, Delaware,2019
+John Deere,8,Agricultural & Farm Machinery,Moline, Illinois,1957
+Discover Financial,6,Consumer Finance,Riverwoods, Illinois,2007
+Dollar General,2,General Merchandise Stores,Goodlettsville, Tennessee,2012
+Quest Diagnostics,7,Health Care Services,Secaucus, New Jersey,2002
+DR Horton,2,Homebuilding,Arlington, Texas,2005
+Disney,1,Movies & Entertainment,Burbank, California,1976
+Dish Network,1,Cable & Satellite,Meridian, Colorado,2017
+Digital Realty,11,Specialized REITs,Austin, Texas,2016
+Dollar Tree,2,General Merchandise Stores,Chesapeake, Virginia,2011
+Dover Corporation,8,Industrial Machinery,Downers Grove, Illinois,1985
+Dow Inc,10,Commodity Chemicals,Midland, Michigan,2019
+Domino s,2,Restaurants,Ann Arbor, Michigan,2020
+DTE Energy,12,Multi Utilities,Detroit, Michigan,1957
+Duke Energy,12,Electric Utilities,Charlotte, North Carolina,1976
+DaVita Inc,7,Health Care Facilities,Denver, Colorado,2008
+Devon Energy,4,Oil & Gas Exploration & Production,Oklahoma City, Oklahoma,2000
+DXC Technology,9,IT Consulting & Other Services,Tysons Corner, Virginia,2017
+Dexcom,7,Health Care Equipment,San Diego, California,2020
+Electronic Arts,1,Interactive Home Entertainment,Redwood City, California,2002
+eBay,2,Internet & Direct Marketing Retail,San Jose, California,2002
+Ecolab,10,Specialty Chemicals,Saint Paul, Minnesota,1989
+Equifax,8,Research & Consulting Services,Atlanta, Georgia,1997
+Edison International,12,Electric Utilities,Rosemead, California,1957
+The Esta e Lauder Companies,5,Personal Products,New York City, New York,2006
+Elevance Health,7,Managed Health Care,Indianapolis, Indiana,2002
+Eastman Chemical Company,10,Diversified Chemicals,Kingsport, Tennessee,1994
+Emerson Electric,8,Electrical Components & Equipment,Ferguson, Missouri,1965
+Enphase,9,Electronic Components,Fremont, California,2021
+EOG Resources,4,Oil & Gas Exploration & Production,Houston, Texas,2000
+EPAM Systems,9,IT Consulting & Other Services,Newtown, Pennsylvania,2021
+Equinix,11,Specialized REITs,Redwood City, California,2015
+Equity Residential,11,Residential REITs,Chicago, Illinois,2001
+EQT,4,Oil & Gas Exploration & Production,Pittsburgh, Pennsylvania,2022
+Essex Property Trust,11,Residential REITs,San Mateo, California,2014
+Entergy,12,Electric Utilities,New Orleans, Louisiana,1957
+Etsy,2,Internet & Direct Marketing Retail,New York City, New York,2020
+Evergy,12,Electric Utilities,Kansas City, Missouri,2018
+Edwards Lifesciences,7,Health Care Equipment,Irvine, California,2011
+Exelon,12,Multi Utilities,Chicago, Illinois,1957
+Expeditors International,8,Air Freight & Logistics,Seattle, Washington,2007
+Expedia Group,2,Internet & Direct Marketing Retail,Seattle, Washington,2007
+Extra Space Storage,11,Specialized REITs,Salt Lake City, Utah,2016
+Ford Motor Company,2,Automobile Manufacturers,Dearborn, Michigan,1957
+Diamondback Energy,4,Oil & Gas Exploration & Production,Midland, Texas,2018
+Fastenal,8,Building Products,Winona, Minnesota,2008
+FactSet,6,Financial Exchanges & Data,Norwalk, Connecticut,2021
+FedEx,8,Air Freight & Logistics,Memphis, Tennessee,1980
+F5 Inc,9,Communications Equipment,Seattle, Washington,2010
+FIS,9,Data Processing & Outsourced Services,Jacksonville, Florida,2006
+Fiserv,9,Data Processing & Outsourced Services,Brookfield, Wisconsin,2001
+Fleetcor,9,Data Processing & Outsourced Services,Atlanta, Georgia,2018
+FMC Corporation,10,Fertilizers & Agricultural Chemicals,Philadelphia, Pennsylvania,2009
+Fox Corporation Class B,1,Movies & Entertainment,New York City, New York,2015
+Fox Corporation Class A,1,Movies & Entertainment,New York City, New York,2013
+First Republic Bank,6,Regional Banks,San Francisco, California,2019
+Federal Realty,11,Retail REITs,Rockville, Maryland,2016
+First Solar,9,Semiconductors,Tempe, Arizona,2022
+Fortinet,9,Systems Software,Sunnyvale, California,2018
+Fortive,8,Industrial Machinery,Everett, Washington,2016
+General Dynamics,8,Aerospace & Defense,Falls Church, Virginia,1957
+GE HealthCare,7,Health Care Technology,Chicago, Illinois,2023
+Gen Digital,9,Application Software,Tempe, Arizona,2003
+Gilead Sciences,7,Biotechnology,Foster City, California,2004
+General Mills,5,Packaged Foods & Meats,Golden Valley, Minnesota,1969
+Globe Life,6,Life & Health Insurance,McKinney, Texas,1989
+General Motors,2,Automobile Manufacturers,Detroit, Michigan,2013
+Generac,8,Electrical Components & Equipment,Waukesha, Wisconsin,2021
+Alphabet Inc Class C,1,Interactive Media & Services,Mountain View, California,2006
+Alphabet Inc Class A,1,Interactive Media & Services,Mountain View, California,2014
+Genuine Parts Company,2,Specialty Stores,Atlanta, Georgia,1973
+Global Payments,9,Data Processing & Outsourced Services,Atlanta, Georgia,2016
+Garmin,2,Consumer Electronics,Schaffhausen, Switzerland,2012
+Goldman Sachs,6,Investment Banking & Brokerage,New York City, New York,2002
+W W Grainger,8,Industrial Machinery,Lake Forest, Illinois,1981
+Halliburton,4,Oil & Gas Equipment & Services,Houston, Texas,1957
+Hasbro,2,Leisure Products,Pawtucket, Rhode Island,1984
+HCA Healthcare,7,Health Care Facilities,Nashville,  Tennessee,2015
+Home Depot The,2,Home Improvement Retail,Atlanta, Georgia,1988
+Hess Corporation,4,Integrated Oil & Gas,New York City, New York,1984
+Hartford The,6,Property & Casualty Insurance,Hartford, Connecticut,1957
+Huntington Ingalls Industries,8,Aerospace & Defense,Newport News, Virginia,2018
+Hilton Worldwide,2,Hotels  Resorts & Cruise Lines,Tysons Corner  Virginia,2017
+Hologic,7,Health Care Equipment,Marlborough, Massachusetts,2016
+Honeywell,8,Industrial Conglomerates,Charlotte, North Carolina,1964
+Hewlett Packard Enterprise,9,Technology Hardware  Storage & Peripherals,Houston  Texas,2015
+HP Inc,9,Technology Hardware  Storage & Peripherals,Palo Alto  California,1974
+Hormel Foods,5,Packaged Foods & Meats,Austin, Minnesota,2009
+Henry Schein,7,Health Care Distributors,Melville, New York,2015
+Host Hotels & Resorts,11,Hotel & Resort REITs,Bethesda, Maryland,2007
+Hershey s,5,Packaged Foods & Meats,Hershey, Pennsylvania,1957
+Howmet Aerospace,8,Aerospace & Defense,Pittsburgh, Pennsylvania,1964
+IBM,9,IT Consulting & Other Services,Armonk, New York,1957
+Intercontinental Exchange,6,Financial Exchanges & Data,Atlanta, Georgia,2007
+Idexx Laboratories,7,Health Care Equipment,Westbrook, Maine,2017
+IDEX Corporation,8,Industrial Machinery,Lake Forest, Illinois,2019
+International Flavors & Fragrances,10,Specialty Chemicals,New York City, New York,1976
+Illumina,7,Life Sciences Tools & Services,San Diego, California,2015
+Incyte,7,Biotechnology,Wilmington, Delaware,2017
+Intel,9,Semiconductors,Santa Clara, California,1976
+Intuit,9,Application Software,Mountain View, California,2000
+Invitation Homes,11,Residential REITs,Dallas, Texas,2022
+International Paper,10,Paper Packaging,Memphis, Tennessee,1957
+The Interpublic Group of Companies,1,Advertising,New York City, New York,1992
+IQVIA,7,Life Sciences Tools & Services,Durham, North Carolina,2017
+Ingersoll Rand,8,Industrial Machinery,Davidson, North Carolina,2020
+Iron Mountain,11,Specialized REITs,Boston, Massachusetts,2009
+Intuitive Surgical,7,Health Care Equipment,Sunnyvale, California,2008
+Gartner,9,IT Consulting & Other Services,Stamford, Connecticut,2017
+Illinois Tool Works,8,Industrial Machinery,Glenview, Illinois,1986
+Invesco,6,Asset Management & Custody Banks,Atlanta, Georgia,2008
+Jacobs Solutions,8,Construction & Engineering,Dallas, Texas,2007
+JB Hunt,8,Trucking,Lowell, Arkansas,2015
+Johnson Controls,8,Building Products,Cork, Ireland,2010
+Jack Henry & Associates,9,Data Processing & Outsourced Services,Monett, Missouri,2018
+Johnson & Johnson,7,Pharmaceuticals,New Brunswick, New Jersey,1973
+Juniper Networks,9,Communications Equipment,Sunnyvale, California,2006
+JPMorgan Chase,6,Diversified Banks,New York City, New York,1975
+Kellogg s,5,Packaged Foods & Meats,Battle Creek, Michigan,1989
+Keurig Dr Pepper,5,Soft Drinks,Burlington, Massachusetts,2022
+KeyCorp,6,Regional Banks,Cleveland, Ohio,1994
+Keysight,9,Electronic Equipment & Instruments,Santa Rosa, California,2018
+"Kraft Heinz,5,Packaged Foods & Meats,""Chicago, Illinois,  Pittsburgh, Pennsylvania"",2015"
+Kimco Realty,11,Retail REITs,New Hyde Park, New York,2006
+Kimberly Clark,5,Household Products,Irving, Texas,1957
+Kinder Morgan,4,Oil & Gas Storage & Transportation,Houston, Texas,2012
+CarMax,2,Automotive Retail,Richmond, Virginia,2010
+The Coca Cola Company,5,Soft Drinks,Atlanta, Georgia,1957
+Kroger,5,Food Retail,Cincinnati, Ohio,1957
+Leidos,8,Diversified Support Services,Reston, Virginia,2019
+Lennar,2,Homebuilding,Miami, Florida,2005
+LabCorp,7,Health Care Services,Burlington, North Carolina,2004
+LeHarris,8,Aerospace & Defense,Melbourne, Florida,2008
+Linde plc,10,Industrial Gases,Guildford, United Kingdom,1992
+LKQ Corporation,2,Distributors,Chicago, Illinois,2016
+Eli Lilly and Company,7,Pharmaceuticals,Indianapolis, Indiana,1970
+Lockheed Martin,8,Aerospace & Defense,Bethesda, Maryland,1984
+Lincoln Financial,6,Multi line Insurance,Radnor, Pennsylvania,1976
+Alliant Energy,12,Electric Utilities,Madison, Wisconsin,2016
+Lowe s,2,Home Improvement Retail,Mooresville, North Carolina,1984
+Lam Research,9,Semiconductor Equipment,Fremont, California,2012
+Lumen Technologies,1,Alternative Carriers,Monroe, Louisiana,1999
+Southwest Airlines,8,Airlines,Dallas, Texas,1994
+Las Vegas Sands,2,Casinos & Gaming,Las Vegas, Nevada,2019
+Lamb Weston,5,Packaged Foods & Meats,Eagle, Idaho,2018
+LyondellBasell,10,Specialty Chemicals,Rotterdam, Netherlands,2012
+Live Nation Entertainment,1,Movies & Entertainment,Beverly Hills, California,2019
+Mastercard,9,Data Processing & Outsourced Services,Harrison, New York,2008
+Mid America Apartment Communities,11,Residential REITs,Memphis, Tennessee,2016
+Masco,8,Building Products,Livonia, Michigan,1981
+McDonald s,2,Restaurants,Chicago, Illinois,1970
+Microchip Technology,9,Semiconductors,Chandler, Arizona,2007
+Mondelez International,5,Packaged Foods & Meats,Chicago, Illinois,2012
+Medtronic,7,Health Care Equipment,Dublin, Ireland,1986
+Meta Platforms,1,Interactive Media & Services,Menlo Park, California,2013
+MGM Resorts,2,Casinos & Gaming,Paradise, Nevada,2017
+Mohawk Industries,2,Home Furnishings,Calhoun, Georgia,2013
+McCormick & Company,5,Packaged Foods & Meats,Hunt Valley, Maryland,2003
+MarketAxess,6,Financial Exchanges & Data,New York City, New York,2019
+Martin Marietta Materials,10,Construction Materials,Raleigh, North Carolina,2014
+Marsh McLennan,6,Insurance Brokers,New York City, New York,1987
+3M,8,Industrial Conglomerates,Saint Paul, Minnesota,1976
+Monster Beverage,5,Soft Drinks,Corona, California,2012
+Altria,5,Tobacco,Richmond, Virginia,1957
+Molina Healthcare,7,Managed Health Care,Long Beach, California,2022
+The Mosaic Company,10,Fertilizers & Agricultural Chemicals,Tampa, Florida,2011
+Marathon Petroleum,4,Oil & Gas Refining & Marketing,Findlay, Ohio,2011
+Monolithic Power Systems,9,Semiconductors,Kirkland, Washington,2021
+Merck & Co,7,Pharmaceuticals,Kenilworth, New Jersey,1957
+Moderna,7,Biotechnology,Cambridge, Massachusetts,2021
+Marathon Oil,4,Oil & Gas Exploration & Production,Houston, Texas,1991
+MSCI,6,Financial Exchanges & Data,New York City, New York,2018
+Microsoft,9,Systems Software,Redmond, Washington,1994
+M&T Bank,6,Regional Banks,Buffalo, New York,2004
+Match Group,1,Interactive Media & Services,Dallas, Texas,2021
+Mettler Toledo,7,Life Sciences Tools & Services,Columbus, Ohio,2016
+Micron Technology,9,Semiconductors,Boise, Idaho,1994
+Norwegian Cruise Line Holdings,2,Hotels  Resorts & Cruise Lines,Miami  Florida,2017
+Nasdaq Inc,6,Financial Exchanges & Data,New York City, New York,2008
+Nordson Corporation,8,Industrial Machinery,Westlake, Ohio,2022
+NextEra Energy,12,Multi Utilities,Juno Beach, Florida,1976
+Newmont,10,Gold,Denver, Colorado,1969
+Netflix,1,Movies & Entertainment,Los Gatos, California,2010
+Nike Inc,2,Apparel  Accessories & Luxury Goods,Washington County  Oregon,1988
+Northrop Grumman,8,Aerospace & Defense,West Falls Church, Virginia,1985
+ServiceNow,9,Systems Software,Santa Clara, California,2019
+NRG Energy,12,Independent Power Producers & Energy Traders,Houston, Texas,2010
+Norfolk Southern Railway,8,Railroads,Atlanta, Georgia,1957
+NetApp,9,Technology Hardware  Storage & Peripherals,San Jose  California,1999
+Nucor,10,Steel,Charlotte, North Carolina,1985
+Nvidia,9,Semiconductors,Santa Clara, California,2001
+NVR Inc,2,Homebuilding,Reston, Virginia,2019
+Newell Brands,2,Housewares & Specialties,Atlanta, Georgia,1989
+News Corp Class B,1,Publishing,New York City, New York,2015
+News Corp Class B,1,Publishing,New York City, New York,2013
+NXP Semiconductors,9,Semiconductors,Eindhoven, Netherlands,2021
+Realty Income,11,Retail REITs,San Diego, California,2015
+Old Dominion,8,Trucking,Thomasville, North Carolina,2019
+Organon & Co,7,Pharmaceuticals,Jersey City, New Jersey,2021
+ONEOK,4,Oil & Gas Storage & Transportation,Tulsa, Oklahoma,2010
+ON Semiconductor,9,Semiconductors,Phoenix, Arizona,2022
+Oracle Corporation,9,Application Software,Austin, Texas,1989
+O Reilly Auto Parts,2,Specialty Stores,Springfield, Missouri,2009
+Otis Worldwide,8,Industrial Machinery,Farmington, Connecticut,2020
+Occidental Petroleum,4,Oil & Gas Exploration & Production,Houston, Texas,1982
+Paycom,9,Application Software,Oklahoma City, Oklahoma,2020
+Paccar,8,Construction Machinery & Heavy Trucks,Bellevue, Washington,1980
+PG&E Corporation,12,Multi Utilities,San Francisco, California,2022
+Healthpeak,11,Health Care REITs,Long Beach, California,2008
+Public Service Enterprise Group,12,Electric Utilities,Newark, New Jersey,1957
+PepsiCo,5,Soft Drinks,Purchase, New York,1957
+Pfizer,7,Pharmaceuticals,New York City, New York,1957
+Principal Financial Group,6,Life & Health Insurance,Des Moines, Iowa,2002
+Procter & Gamble,5,Personal Products,Cincinnati, Ohio,1957
+Progressive Corporation,6,Property & Casualty Insurance,Mayfield Village, Ohio,1997
+Parker Hannifin,8,Industrial Machinery,Cleveland, Ohio,1985
+PulteGroup,2,Homebuilding,Atlanta, Georgia,1984
+Packaging Corporation of America,10,Paper Packaging,Lake Forest, Illinois,2017
+PerkinElmer,7,Health Care Equipment,Waltham, Massachusetts,1985
+Prologis,11,Industrial REITs,San Francisco, California,2003
+Philip Morris International,5,Tobacco,New York City, New York,2008
+PNC Financial Services,6,Regional Banks,Pittsburgh, Pennsylvania,1988
+Pentair,8,Industrial Machinery,Worsley, United Kingdom,2012
+Pool Corporation,2,Distributors,Covington, Louisiana,2020
+PPG Industries,10,Specialty Chemicals,Pittsburgh, Pennsylvania,1957
+Prudential Financial,6,Life & Health Insurance,Newark, New Jersey,2002
+Public Storage,11,Specialized REITs,Glendale, California,2005
+Phillips 66,4,Oil & Gas Refining & Marketing,Houston, Texas,2012
+PTC,9,Application Software,Boston, Massachusetts,2021
+Quanta Services,8,Construction & Engineering,Houston, Texas,2009
+Pioneer Natural Resources,4,Oil & Gas Exploration & Production,Irving, Texas,2008
+PayPal,9,Data Processing & Outsourced Services,San Jose, California,2015
+Qorvo,9,Semiconductors,Greensboro, North Carolina,2015
+Royal Caribbean Group,2,Hotels  Resorts & Cruise Lines,Miami  Florida,2014
+Everest Re,6,Reinsurance,Hamilton, Bermuda,2017
+Regency Centers,11,Retail REITs,Jacksonville,  Florida,2017
+Regeneron,7,Biotechnology,Tarrytown, New York,2013
+Regions Financial Corporation,6,Regional Banks,Birmingham, Alabama,1998
+Robert Half,8,Human Resource & Employment Services,Menlo Park, California,2000
+Raymond James,6,Investment Banking & Brokerage,St  Petersburg, Florida,2017
+Ralph Lauren Corporation,2,Apparel  Accessories & Luxury Goods,New York City  New York,2007
+ResMed,7,Health Care Equipment,San Diego, California,2017
+Rollins Inc,8,Environmental & Facilities Services,Atlanta, Georgia,2018
+Roper Technologies,9,Electronic Equipment & Instruments,Sarasota, Florida,2009
+Ross Stores,2,Apparel Retail,Dublin, California,2009
+Republic Services,8,Environmental & Facilities Services,Phoenix, Arizona,2008
+SBA Communications,11,Specialized REITs,Boca Raton, Florida,2017
+Signature Bank,6,Regional Banks,New York City, New York,2021
+Starbucks,2,Restaurants,Seattle, Washington,2000
+Charles Schwab Corporation,6,Investment Banking & Brokerage,Westlake, Texas,1997
+SolarEdge,9,Semiconductor Equipment,Herzliya, Israel,2021
+Sealed Air,10,Paper Packaging,Charlotte, North Carolina,1957
+Sherwin Williams,10,Specialty Chemicals,Cleveland, Ohio,1964
+SVB Financial,6,Regional Banks,Santa Clara, California,2018
+The JM Smucker Company,5,Packaged Foods & Meats,Orrville, Ohio,2008
+Schlumberger,4,Oil & Gas Equipment & Services,CuraÃ§ao,  Kingdom of the Netherlands,1965
+Snap on,8,Industrial Machinery,Kenosha, Wisconsin,1982
+Synopsys,9,Application Software,Mountain View, California,2017
+Southern Company,12,Electric Utilities,Atlanta, Georgia,1957
+Simon Property Group,11,Retail REITs,Indianapolis, Indiana,2002
+Steris,7,Health Care Equipment,Dublin, Ireland,2019
+Steel Dynamics,10,Steel,Fort Wayne, Indiana,2022
+Seagate Technology,9,Technology Hardware  Storage & Peripherals,Dublin  Ireland,2012
+Constellation Brands,5,Distillers & Vintners,Victor, New York,2005
+Stanley Black & Decker,8,Industrial Machinery,New Britain, Connecticut,1982
+Skyworks Solutions,9,Semiconductors,Irvine, California,2015
+Synchrony Financial,6,Consumer Finance,Stamford, Connecticut,2015
+Stryker Corporation,7,Health Care Equipment,Kalamazoo, Michigan,2000
+Sysco,5,Food Distributors,Houston, Texas,1986
+AT&T,1,Integrated Telecommunication Services,Dallas, Texas,1983
+Molson Coors Beverage Company,5,Brewers,Chicago, Illinois,1976
+TransDigm Group,8,Aerospace & Defense,Cleveland, Ohio,2016
+Teledyne Technologies,9,Electronic Equipment & Instruments,Thousand Oaks, California,2020
+Bio Techne,7,Life Sciences Tools & Services,Minneapolis, Minnesota,2021
+TE Connectivity,9,Electronic Manufacturing Services,Schaffhausen, Switzerland,2011
+Teradyne,9,Semiconductor Equipment,North Reading, Massachusetts,2020
+Truist,6,Regional Banks,Charlotte, North Carolina,1997
+Teleflex,7,Health Care Equipment,Wayne, Pennsylvania,2019
+Target Corporation,2,General Merchandise Stores,Minneapolis, Minnesota,1976
+TJX Companies,2,Apparel Retail,Framingham, Massachusetts,1985
+Thermo Fisher Scientific,7,Life Sciences Tools & Services,Waltham, Massachusetts,2004
+T Mobile US,1,Wireless Telecommunication Services,Bellevue, Washington,2019
+Targa Resources,4,Oil & Gas Storage & Transportation,Houston, Texas,2022
+Trimble Inc,9,Electronic Equipment & Instruments,Westminster, Colorado,2021
+The Travelers Companies,6,Property & Casualty Insurance,New York City, New York,2002
+Tractor Supply,2,Specialty Stores,Brentwood, Tennessee,2014
+Tesla Inc,2,Automobile Manufacturers,Austin, Texas,2020
+Tyson Foods,5,Packaged Foods & Meats,Springdale, Arkansas,2005
+Trane Technologies,8,Building Products,Dublin, Ireland,2010
+Take Two Interactive,1,Interactive Home Entertainment,New York City, New York,2018
+Textron,8,Aerospace & Defense,Providence, Rhode Island,1978
+Tyler Technologies,9,Application Software,Plano, Texas,2020
+United Airlines Holdings,8,Airlines,Chicago, Illinois,2015
+UDR Inc,11,Residential REITs,Highlands Ranch, Colorado,2016
+Universal Health Services,7,Health Care Facilities,King of Prussia, Pennsylvania,2014
+Ulta Beauty,2,Specialty Stores,Bolingbrook, Illinois,2016
+UnitedHealth Group,7,Managed Health Care,Minnetonka, Minnesota,1994
+Union Pacific Corporation,8,Railroads,Omaha, Nebraska,1957
+United Parcel Service,8,Air Freight & Logistics,Sandy Springs, Georgia,2002
+United Rentals,8,Trading Companies & Distributors,Stamford, Connecticut,2014
+Visa Inc,9,Data Processing & Outsourced Services,San Francisco, California,2009
+VF Corporation,2,Apparel  Accessories & Luxury Goods,Denver  Colorado,1979
+Vici Properties,11,Hotel & Resort REITs,New York City, New York,2022
+Vulcan Materials Company,10,Construction Materials,Birmingham, Alabama,1999
+Verisk,8,Research & Consulting Services,Jersey City, New Jersey,2015
+Verisign,9,Internet Services & Infrastructure,Dulles, Virginia,2006
+Vertex Pharmaceuticals,7,Biotechnology,Cambridge, Massachusetts,2013
+Ventas,11,Health Care REITs,Chicago, Illinois,2009
+Viatris,7,Pharmaceuticals,Pittsburgh, Pennsylvania,2004
+Verizon,1,Integrated Telecommunication Services,New York City, New York,1983
+Wabtec,8,Construction Machinery & Heavy Trucks,Pittsburgh, Pennsylvania,2019
+Walgreens Boots Alliance,5,Drug Retail,Deerfield, Illinois,1979
+Warner Bros Discovery,1,Broadcasting,New York City, New York,2022
+Western Digital,9,Technology Hardware  Storage & Peripherals,San Jose  California,2009
+WEC Energy Group,12,Electric Utilities,Milwaukee, Wisconsin,2008
+Welltower,11,Health Care REITs,Toledo, Ohio,2009
+Wells Fargo,6,Diversified Banks,San Francisco, California,1976
+Williams Companies,4,Oil & Gas Storage & Transportation,Tulsa, Oklahoma,1975
+Walmart,5,Hypermarkets & Super Centers,Bentonville, Arkansas,1982
+Berkley,6,Property & Casualty Insurance,Greenwich, Connecticut,2019
+West Pharmaceutical Services,7,Health Care Supplies,Exton, Pennsylvania,2020
+Willis Towers Watson,6,Insurance Brokers,London, United Kingdom,2016
+Wynn Resorts,2,Casinos & Gaming,Paradise, Nevada,2008
+Xcel Energy,12,Multi Utilities,Minneapolis, Minnesota,1957
+ExxonMobil,4,Integrated Oil & Gas,Irving, Texas,1957
+Dentsply Sirona,7,Health Care Supplies,Charlotte, North Carolina,2008
+Xylem Inc,8,Industrial Machinery,White Plains, New York,2011
+Yum Brands,2,Restaurants,Louisville, Kentucky,1997
+Zimmer Biomet,7,Health Care Equipment,Warsaw, Indiana,2001
+Zebra Technologies,9,Electronic Equipment & Instruments,Lincolnshire, Illinois,2019
+Zions Bancorporation,6,Regional Banks,Salt Lake City, Utah,2001
+Zoetis,7,Pharmaceuticals,Parsippany, New Jersey,2013
